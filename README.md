@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devashishpandey1103
+- 👋 Hi, I’m @Devashish Pandey
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning ML,DL,CV
 - 💞️ I’m looking to collaborate on ...
